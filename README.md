@@ -1,185 +1,127 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Oguzhan Salih</h1>
-
+<h1 align="center">Hi 👋, I'm Oguzhan Salih</h1>
 <h3 align="center">
-  Full-Stack Developer · TypeScript · Node.js · React · Next.js
+Backend / System Engineer • Scalable Systems • EU / Sweden Job Market
 </h3>
 
 <p align="center">
-  📍 Open to relocation — Sweden / EU
+Building production-grade backend systems with a focus on performance,
+reliability and clean architecture.
 </p>
 
 <p align="center">
-  <a href="https://github.com/Oxgendev">
-    <img src="https://img.shields.io/github/followers/Oxgendev?label=Followers&style=for-the-badge" />
+🇸🇪 Open to Sweden & EU opportunities • Remote / Relocation
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=oxgendev&label=Profile%20views&color=0e75b6&style=flat" alt="oxgendev" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=oxgendev&theme=flat&no-frame=true" alt="oxgendev" />
   </a>
-  <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
-  </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Relocation-Sweden%20%7C%20EU-success?style=for-the-badge" />
 </p>
 
 ---
 
-## 🧑‍💻 Profile
+## 🧠 What I Do (Backend / System Focus)
 
-Full-Stack Developer focused on **backend engineering**, **database architecture**, and **scalable web systems**.
-
-I build production-grade software where:
-- ⚡ performance matters
-- 🗄️ data safety is non-negotiable
-- 🧱 architecture is designed for long-term growth
-
-Experienced with real-world systems, not just demos.
+- Design **scalable backend architectures**
+- Build **high-performance APIs** (REST / GraphQL)
+- Optimize **database & caching layers**
+- Work with **event-driven & distributed systems**
+- Production-first mindset (observability, fault tolerance)
 
 ---
 
-## 🧠 Most Used Languages
+## 🔭 Current Focus
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxgendev&layout=compact&theme=radical&langs_count=10" />
-</p>
-
----
-
-## 🧰 Core Tech Stack
-
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,lua,cpp,c" />
-</p>
-
-- Strong foundation in **algorithms & data structures**
-- Time & space complexity awareness
-- Clean and readable problem-solving style
+- 🔭 Working on **Backend & System Design projects**
+- 🧪 Building **mock-production services** for interview readiness
+- 🧠 Documenting **system design decisions** in public repos
+- 🌍 Targeting **Sweden / EU backend roles**
 
 ---
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,jquery" />
-</p>
+## 🗂️ Featured Repositories (Start Here)
 
-- React
-- Next.js (SSR, API Routes)
-- Vue
-- HTML5 / HTML3
-- CSS3
-- jQuery
+| Repo | Description |
+|-----|------------|
+| **system-design-case-studies** | Real-world system design problems with diagrams |
+| **backend-mock-production** | Interview-ready backend service (auth, cache, queue) |
+| **scalable-api-template** | Clean architecture backend starter |
+| **infra-docker-lab** | Dockerized backend & infra experiments |
 
----
-
-### 🔧 Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-- REST API design
-- Authentication & authorization
-- Real-time & event-driven systems
+> Each repo includes: README, architecture notes, trade-offs & roadmap.
 
 ---
 
-### 🗄️ Databases & Cache
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
+## 🧠 Open Source & Engineering Mindset
 
-- PostgreSQL (primary)
-- MySQL
-- MongoDB
-- Redis
-- pgAdmin for database management
+- Contributor mindset (clean commits, readable PRs)
+- Documentation-first approach
+- Design decisions > frameworks
+- Maintainability over hype
 
 ---
 
-### 🧩 ORM / Query Layer
-<p align="left">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" />
-  <img src="https://img.shields.io/badge/Knex.js-E34F26?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge" />
-</p>
+## 📘 Blog Posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 ---
 
-## ⚙️ DevOps · OS · Tooling
+## 🌐 Connect with Me
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=ubuntu,linux,bash,git,github,docker,githubactions" />
+<a href="https://dev.to/oxgendev" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" height="30" width="40" />
+</a>
+<a href="https://linkedin.com/in/o%c4%9fuzhan-salih-622744374" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+</a>
+<a href="https://instagram.com/oxgendev" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
+</a>
+<a href="https://discord.gg/halloween" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" height="30" width="40" />
+</a>
 </p>
 
-| Area | Tools |
-|----|------|
-| OS | Ubuntu / Linux |
-| Terminal | Bash |
-| Version Control | Git / GitHub |
-| CI/CD | GitHub Actions |
-| Containers | Docker |
-
 ---
 
-## 🌟 Selected Projects
-
-### 🌐 Backend API Platform
-**Centralized REST API for system & user management**
-
-- Clean service/controller separation
-- Redis caching with safe invalidation
-- PostgreSQL & MongoDB support
-- Dockerized environments
-
-**Tech:** Node.js · TypeScript · Express · PostgreSQL · Redis
-
----
-
-### 📊 Admin Dashboard
-**Modern SSR dashboard for metrics & management**
-
-- Next.js App Router
-- Role-based access control
-- Prisma / Knex migrations
-- Maintainable UI architecture
-
-**Tech:** Next.js · React · TypeScript · PostgreSQL
-
----
-
-### ⚡ Real-Time Systems
-**Event-driven, low-latency architectures**
-
-- Client–server validation
-- State synchronization
-- Lua-based performance scripting
-- Redis-backed messaging
-
-**Tech:** Lua · JavaScript · SQL · Redis
-
----
-
-## 📈 Measurable Impact
-
-- ⚡ Server tick optimization: **6.8ms → 3.1ms**
-- 🚀 API latency (p95): **120ms → 70ms**
-- 🗄️ Database load reduction: **30–35%**
-- 🔄 Zero data loss across releases
-
----
-
-## 🧱 Engineering Practices
-
-- Feature-based branching (`feature/*`, `fix/*`)
-- Conventional commits
-- CI-enforced quality gates
-- Semantic versioning
-- Clear changelogs & documentation
-
----
-
-## 📫 Contact
+## 🛠 Languages & Tools (Production Stack)
 
 <p align="left">
-  <a href="https://github.com/Oxgendev">🐙 GitHub</a><br/>
-  <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/">💼 LinkedIn</a><br/>
-  📧 Email: brenfrank827@gmail.com<br/>
-  💬 Discord: oxgendev
+Node.js • TypeScript • PostgreSQL • Redis • Docker • Kubernetes • Linux  
+AWS • GCP • Nginx • Kafka • GraphQL • REST • CI/CD
 </p>
+
+> Full stack listed below reflects hands-on experience,  
+> but **backend & system architecture is the core focus**.
+
+<p align="left">
+<!-- (Senin verdiğin icon bloğu AYNEN korunur) -->
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=oxgendev&show_icons=true&locale=en&layout=compact" />
+</p>
+
+<p>&nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=oxgendev&show_icons=true&locale=en" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=oxgendev" />
+</p>
+
+---
+
+### 📌 Recruiter Note
+> This profile is intentionally **backend & system-oriented**.  
+> Each repository is structured to support **technical interviews, system design discussions, and production thinking**.
