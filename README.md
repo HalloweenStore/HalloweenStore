@@ -9,18 +9,12 @@
 <div align="center">
 
 # Hi, I'm Oguzhan Salih
-### Merhaba, ben Oğuzhan Salih
 
 **Full-Stack Developer** · Backend-focused · TypeScript · Node.js · React · Next.js
 
-Building production systems where performance, data integrity, and long-term architecture actually matter.  
-Performans, veri bütünlüğü ve uzun vadeli mimarinin önemli olduğu production sistemler geliştiriyorum.
+Building production systems where performance, data integrity, and long-term architecture actually matter.
 
-📍 Open to relocation — **Sweden / EU** · Taşınmaya açığım — **İsveç / AB**
-
-<br/>
-
-[English](#-about--hakkımda) · [Türkçe](#-hakkımda--about)
+📍 Open to relocation — **Sweden / EU**
 
 <br/>
 
@@ -39,12 +33,7 @@ Performans, veri bütünlüğü ve uzun vadeli mimarinin önemli olduğu product
 
 ---
 
-## About · Hakkımda
-
-<details open>
-<summary><strong>🇬🇧 English</strong></summary>
-
-<br/>
+## About
 
 I'm a Full-Stack Developer with a strong bias toward **backend engineering**, **database architecture**, and **scalable web platforms**.
 
@@ -59,70 +48,41 @@ I ship systems that stay reliable after launch — not demos that only look good
 **Looking for**  
 Backend / Full-Stack roles in **Sweden** or the **EU** — teams that care about ownership, quality, and measurable product impact.
 
-</details>
-
-<details>
-<summary><strong>🇹🇷 Türkçe</strong></summary>
-
-<br/>
-
-**Backend mühendisliği**, **veritabanı mimarisi** ve **ölçeklenebilir web platformları** odaklı bir Full-Stack Developer’ım.
-
-Ekran görüntüsünde güzel duran demolar değil; canlıya çıktıktan sonra da ayakta kalan sistemler üretiyorum. Son dönem işlerimin çoğu **Next.js paneller**, **Node.js API’ler**, **PostgreSQL / Redis** ve **gerçek zamanlı Discord / FiveM araçları** kesişiminde.
-
-**Odaklandığım konular**
-- Temiz API ve servis sınırları
-- Gerçek trafik ve hata senaryolarında veri güvenliği
-- Okunabilirliği bozmadan latency düşürme
-- Aylar sonra da bakımı yapılabilir TypeScript
-
-**Aradığım**  
-**İsveç** veya **AB**’de Backend / Full-Stack roller — sahiplik, kalite ve ölçülebilir ürün etkisi önemseyen ekipler.
-
-</details>
-
 ---
 
-## Currently Building · Şu An Üzerinde Çalıştığım
+## Currently Building
 
 | Project | What it is | Stack |
 |--------|------------|--------|
-| **[OxChi](https://oxchi.com)** | Discord bot satış & yönetim platformu — OAuth, billing, canlı bot kontrolü, admin RBAC | Next.js · Node.js · PostgreSQL · MongoDB · Redis · BullMQ · Discord.js |
-| **bot-manager** | Windows üzerinde PM2 ile bot lifecycle (start / stop / restart / log / heartbeat) | Node.js · PM2 · Redis · WebSocket |
-| **FiveM tooling** | API + Lua tarafında sunucu / performans işleri | TypeScript · Lua · Redis · SQL |
+| **[OxChi](https://oxchi.com)** | Discord bot commerce & ops platform — OAuth, billing, live bot control, admin RBAC | Next.js · Node.js · PostgreSQL · MongoDB · Redis · BullMQ · Discord.js |
+| **bot-manager** | Bot lifecycle on Windows via PM2 (start / stop / restart / log / heartbeat) | Node.js · PM2 · Redis · WebSocket |
+| **FiveM tooling** | API + Lua work for server / performance tooling | TypeScript · Lua · Redis · SQL |
 
-> OxChi monorepo şu an private; ürün canlıda: **[oxchi.com](https://oxchi.com)**
+> The OxChi monorepo is currently private; the product is live at **[oxchi.com](https://oxchi.com)**
 
 ---
 
-## Featured Product · Öne Çıkan Ürün
+## Featured Product
 
 ### OxChi — Discord Bot Commerce & Ops Platform
 
-**[Live](https://oxchi.com)** · Discord bot satış paneli + runtime yönetimi
+**[Live](https://oxchi.com)** · Discord bot sales panel + runtime management
 
-End-to-end platform: müşteri Discord ile giriş yapar, paket alır, botlarını panelden yönetir; operatör tarafında bot-manager PM2 process’lerini ayağa kaldırır.
+End-to-end platform: customers sign in with Discord, purchase packages, and manage bots from the dashboard; on the operator side, bot-manager brings PM2 processes up and down safely.
 
 | Area | Detail |
 |------|--------|
 | Auth | Discord OAuth, session cookies, ban / RBAC gates |
-| Commerce | Bakiye, paketler, Shopier ödeme dönüşleri |
-| Runtime | BullMQ kuyrukları, Redis pub/sub, canlı CPU/RAM/log WebSocket |
+| Commerce | Balances, packages, Shopier payment returns |
+| Runtime | BullMQ queues, Redis pub/sub, live CPU/RAM/log WebSocket |
 | Data | PostgreSQL (users, bots, orders) + MongoDB (ticket stats / transcripts meta) |
-| Bot types | Ticket · Guard · Ekip · FiveM · Legal / Shop bot templates |
+| Bot types | Ticket · Guard · Team · FiveM · Legal / Shop bot templates |
 
 `Next.js` · `TypeScript` · `PostgreSQL` · `MongoDB` · `Redis` · `BullMQ` · `Discord.js` · `Docker` · `PM2`
 
-<details>
-<summary>Türkçe özet</summary>
-
-Discord bot satış ve yönetim platformu. OAuth ile giriş, ödeme / bakiye, bot bazlı ayarlar, admin yetkileri ve Windows sunucuda PM2 ile gerçek process yönetimi. Redis + BullMQ ile kuyruklu start/stop; WebSocket ile canlı log ve metrik.
-
-</details>
-
 ---
 
-## Selected Projects · Seçili Projeler
+## Selected Projects
 
 ### 1. Admin Dashboard
 **SSR dashboard for metrics, roles & operations**
@@ -134,13 +94,6 @@ Repo: **[Oxgendev/nextjs-dashboard](https://github.com/Oxgendev/nextjs-dashboard
 - Maintainable UI architecture for real admin workflows
 
 `Next.js` · `React` · `TypeScript` · `PostgreSQL`
-
-<details>
-<summary>Türkçe</summary>
-
-Metrik ve yönetim için SSR dashboard. App Router, tip güvenliği ve uzun vadede bakımı kolay UI yapısı.
-
-</details>
 
 ---
 
@@ -155,13 +108,6 @@ Repo: **[Oxgendev/db-migrations-examples](https://github.com/Oxgendev/db-migrati
 
 `JavaScript` · `SQL` · `Knex` · `Prisma`
 
-<details>
-<summary>Türkçe</summary>
-
-Şema değişimlerinde güvenli migration örnekleri. Release sırasında veri kaybı riskini azaltmaya odaklı pratik kalıplar.
-
-</details>
-
 ---
 
 ### 3. FiveM API
@@ -173,13 +119,6 @@ Repo: **[Oxgendev/fivem-api](https://github.com/Oxgendev/fivem-api)**
 - Typed contracts between dashboard, bots, and runtime
 
 `TypeScript` · `Node.js` · `REST`
-
-<details>
-<summary>Türkçe</summary>
-
-FiveM ekosistemi için TypeScript API katmanı. Dashboard, bot ve runtime arasında typed kontratlar.
-
-</details>
 
 ---
 
@@ -194,19 +133,12 @@ Repo: **[Oxgendev/fivem-lua](https://github.com/Oxgendev/fivem-lua)**
 
 `Lua` · `SQL` · `Redis`
 
-<details>
-<summary>Türkçe</summary>
-
-Gerçek zamanlı sunucular için performans odaklı Lua. Validasyon, state sync ve tick bilinci.
-
-</details>
-
 ---
 
-## Measurable Impact · Ölçülebilir Etki
+## Measurable Impact
 
-| Area · Alan | Result · Sonuç |
-|-------------|----------------|
+| Area | Result |
+|------|--------|
 | Server tick optimization | **6.8ms → 3.1ms** |
 | API latency (p95) | **120ms → 70ms** |
 | Database load | **~30–35% reduction** |
@@ -233,9 +165,9 @@ Gerçek zamanlı sunucular için performans odaklı Lua. Validasyon, state sync 
 
 ---
 
-## Core Tech Stack · Teknoloji Yığını
+## Core Tech Stack
 
-### Languages · Diller
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,python,lua,cpp,c" alt="Languages" />
 </p>
@@ -284,7 +216,7 @@ Ubuntu / Linux · Bash · Git / GitHub · Docker · GitHub Actions · PM2
 
 ---
 
-## Domain Experience · Alan Deneyimi
+## Domain Experience
 
 ```text
 ┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
@@ -302,7 +234,7 @@ Ubuntu / Linux · Bash · Git / GitHub · Docker · GitHub Actions · PM2
 
 ---
 
-## How I Work · Çalışma Şeklim
+## How I Work
 
 | Practice | Why |
 |----------|-----|
@@ -314,7 +246,7 @@ Ubuntu / Linux · Bash · Git / GitHub · Docker · GitHub Actions · PM2
 
 ---
 
-## What I'm Exploring · Öğrendiğim / Denediğim
+## What I'm Exploring
 
 - Deeper **PostgreSQL** performance (indexes, EXPLAIN, connection pooling)
 - **Queue / worker** patterns at scale (BullMQ, idempotency, retries)
@@ -323,23 +255,16 @@ Ubuntu / Linux · Bash · Git / GitHub · Docker · GitHub Actions · PM2
 
 ---
 
-## Currently Open To · Açık Olduğum Fırsatlar
+## Currently Open To
 
-**EN**
 - Backend Engineer / Full-Stack roles
 - Teams shipping real products to real users
 - Relocation to **Sweden** or elsewhere in the **EU**
 - Environments that value ownership, code quality, and measurable impact
 
-**TR**
-- Backend / Full-Stack roller
-- Gerçek kullanıcıya ürün çıkaran ekipler
-- **İsveç** veya **AB**’ye taşınma
-- Sahiplik, kod kalitesi ve ölçülebilir etki odaklı ortamlar
-
 ---
 
-## Contact · İletişim
+## Contact
 
 | | |
 |---|---|
@@ -353,7 +278,7 @@ Ubuntu / Linux · Bash · Git / GitHub · Docker · GitHub Actions · PM2
 
 <div align="center">
 
-### Quick links · Hızlı linkler
+### Quick links
 
 [OxChi](https://oxchi.com) ·
 [nextjs-dashboard](https://github.com/Oxgendev/nextjs-dashboard) ·
@@ -365,8 +290,6 @@ Ubuntu / Linux · Bash · Git / GitHub · Docker · GitHub Actions · PM2
 
 <sub>
 Thanks for stopping by — always happy to talk about backend systems, databases, Discord platforms, or building products that scale.
-<br/>
-Uğradığın için teşekkürler — backend, veritabanı, Discord platformları veya ölçeklenen ürünler hakkında konuşmaya her zaman açığım.
 </sub>
 
 </div>
