@@ -1,185 +1,203 @@
-<!-- HEADER -->
-<h1 align="center">👋 Hi, I'm Oguzhan Salih</h1>
+<!--
+  GitHub Profile README
+  Repo: https://github.com/Oxgendev/Oxgendev
+  File: README.md
+-->
 
-<h3 align="center">
-  Full-Stack Developer · TypeScript · Node.js · React · Next.js
-</h3>
+<h1 align="center">Hi, I'm Oguzhan Salih</h1>
 
 <p align="center">
-  📍 Open to relocation — Sweden / EU
+  <strong>Full-Stack Developer</strong> · Backend-focused · TypeScript · Node.js · React · Next.js
+</p>
+
+<p align="center">
+  Building production systems where performance, data integrity, and long-term architecture actually matter.
+</p>
+
+<p align="center">
+  📍 Open to relocation — <strong>Sweden / EU</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/Oxgendev">
-    <img src="https://img.shields.io/github/followers/Oxgendev?label=Followers&style=for-the-badge" />
+    <img src="https://img.shields.io/github/followers/Oxgendev?label=Followers&style=for-the-badge&color=0969da" alt="GitHub Followers" />
   </a>
   <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <img src="https://img.shields.io/badge/Open%20to%20Relocation-Sweden%20%7C%20EU-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open%20to%20Work-Sweden%20%7C%20EU-2ea44f?style=for-the-badge" alt="Open to relocation" />
 </p>
 
 ---
 
-## 🧑‍💻 Profile
+## About
 
-Full-Stack Developer focused on **backend engineering**, **database architecture**, and **scalable web systems**.
+I'm a Full-Stack Developer with a strong bias toward **backend engineering**, **database design**, and **scalable web platforms**.
 
-I build production-grade software where:
-- ⚡ performance matters
-- 🗄️ data safety is non-negotiable
-- 🧱 architecture is designed for long-term growth
+I care about shipping systems that stay reliable after launch — not just demos that look good in a screenshot.
 
-Experienced with real-world systems, not just demos.
+**What I focus on:**
+- Designing clean APIs and service boundaries
+- Keeping data safe under real traffic and real failure modes
+- Reducing latency without turning the codebase into spaghetti
+- Writing TypeScript that other engineers can maintain
+
+**Looking for:** Backend / Full-Stack roles in Sweden or the EU where ownership, quality, and product impact matter.
 
 ---
 
-## 🧠 Most Used Languages
+## GitHub Snapshot
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxgendev&layout=compact&theme=radical&langs_count=10" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Oxgendev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxgendev&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Oxgendev&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## 🧰 Core Tech Stack
+## Core Tech Stack
 
-### 💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,lua,cpp,c" />
+### Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,lua,cpp,c" alt="Languages" />
 </p>
 
-- Strong foundation in **algorithms & data structures**
-- Time & space complexity awareness
-- Clean and readable problem-solving style
+| Strength | Detail |
+|---|---|
+| TypeScript / JavaScript | Primary stack for APIs, dashboards, and product work |
+| Algorithms & DS | Complexity-aware problem solving, clean readable solutions |
+| Lua / C++ / C | Performance-sensitive and systems-adjacent work |
+
+### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css" alt="Frontend" />
+</p>
+
+- **React** & **Next.js** (App Router, SSR, API routes)
+- Vue when the project calls for it
+- HTML5 / CSS3 — accessible, maintainable UI
+
+### Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+</p>
+
+- REST API design with clear service / controller boundaries
+- Authentication & authorization (RBAC, session / token flows)
+- Real-time and event-driven architectures
+- Caching strategies with safe invalidation
+
+### Databases & Cache
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" />
+</p>
+
+| Tool | Role |
+|---|---|
+| **PostgreSQL** | Primary relational database |
+| MySQL | Legacy / mixed environments |
+| MongoDB | Document-oriented workloads |
+| Redis | Caching, pub/sub, low-latency messaging |
+| Prisma · Knex · Mongoose | ORM / query layers |
+
+### DevOps & Tooling
+<p>
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,bash,git,github,docker,githubactions" alt="DevOps" />
+</p>
+
+Ubuntu / Linux · Bash · Git / GitHub · Docker · GitHub Actions
 
 ---
 
-### 🎨 Frontend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,jquery" />
-</p>
+## Selected Projects
 
-- React
-- Next.js (SSR, API Routes)
-- Vue
-- HTML5 / HTML3
-- CSS3
-- jQuery
-
----
-
-### 🔧 Backend
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-- REST API design
-- Authentication & authorization
-- Real-time & event-driven systems
-
----
-
-### 🗄️ Databases & Cache
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
-</p>
-
-- PostgreSQL (primary)
-- MySQL
-- MongoDB
-- Redis
-- pgAdmin for database management
-
----
-
-### 🧩 ORM / Query Layer
-<p align="left">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma" />
-  <img src="https://img.shields.io/badge/Knex.js-E34F26?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge" />
-</p>
-
----
-
-## ⚙️ DevOps · OS · Tooling
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=ubuntu,linux,bash,git,github,docker,githubactions" />
-</p>
-
-| Area | Tools |
-|----|------|
-| OS | Ubuntu / Linux |
-| Terminal | Bash |
-| Version Control | Git / GitHub |
-| CI/CD | GitHub Actions |
-| Containers | Docker |
-
----
-
-## 🌟 Selected Projects
-
-### 🌐 Backend API Platform
+### Backend API Platform
 **Centralized REST API for system & user management**
 
-- Clean service/controller separation
-- Redis caching with safe invalidation
-- PostgreSQL & MongoDB support
-- Dockerized environments
+Production-oriented API layer with clean separation of concerns, Redis caching, and multi-database support.
 
-**Tech:** Node.js · TypeScript · Express · PostgreSQL · Redis
+- Service / controller architecture that stays easy to extend
+- Redis caching with disciplined invalidation
+- PostgreSQL + MongoDB support
+- Dockerized local & deploy environments
+
+`Node.js` · `TypeScript` · `Express` · `PostgreSQL` · `Redis` · `Docker`
 
 ---
 
-### 📊 Admin Dashboard
-**Modern SSR dashboard for metrics & management**
+### Admin Dashboard
+**SSR dashboard for metrics, roles, and operations**
 
-- Next.js App Router
+A maintainable Next.js dashboard built for real admin workflows — not just static charts.
+
+- Next.js App Router + TypeScript
 - Role-based access control
 - Prisma / Knex migrations
-- Maintainable UI architecture
+- Clear UI architecture for long-term maintenance
 
-**Tech:** Next.js · React · TypeScript · PostgreSQL
+`Next.js` · `React` · `TypeScript` · `PostgreSQL` · `Prisma`
 
 ---
 
-### ⚡ Real-Time Systems
+### Real-Time Systems
 **Event-driven, low-latency architectures**
 
-- Client–server validation
-- State synchronization
-- Lua-based performance scripting
+Client–server systems where validation, sync, and performance have to hold under load.
+
+- Client and server-side validation
+- State synchronization patterns
+- Lua for performance-critical scripting
 - Redis-backed messaging
 
-**Tech:** Lua · JavaScript · SQL · Redis
+`Lua` · `JavaScript` · `SQL` · `Redis`
 
 ---
 
-## 📈 Measurable Impact
+## Measurable Impact
 
-- ⚡ Server tick optimization: **6.8ms → 3.1ms**
-- 🚀 API latency (p95): **120ms → 70ms**
-- 🗄️ Database load reduction: **30–35%**
-- 🔄 Zero data loss across releases
+| Area | Result |
+|---|---|
+| Server tick optimization | **6.8ms → 3.1ms** |
+| API latency (p95) | **120ms → 70ms** |
+| Database load | **~30–35% reduction** |
+| Releases | **Zero data loss** across shipped updates |
 
 ---
 
-## 🧱 Engineering Practices
+## How I Work
 
 - Feature-based branching (`feature/*`, `fix/*`)
-- Conventional commits
-- CI-enforced quality gates
+- Conventional commits & clear changelogs
+- CI quality gates before merge
 - Semantic versioning
-- Clear changelogs & documentation
+- Prefer boring, reliable solutions over clever ones
 
 ---
 
-## 📫 Contact
+## Currently Open To
 
-<p align="left">
-  <a href="https://github.com/Oxgendev">🐙 GitHub</a><br/>
-  <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/">💼 LinkedIn</a><br/>
-  📧 Email: brenfrank827@gmail.com<br/>
-  💬 Discord: oxgendev
+- Backend Engineer / Full-Stack roles
+- Teams building real products with real users
+- Relocation to **Sweden** or elsewhere in the **EU**
+- Environments that value ownership, code quality, and measurable impact
+
+---
+
+## Contact
+
+| | |
+|---|---|
+| GitHub | [github.com/Oxgendev](https://github.com/Oxgendev) |
+| LinkedIn | [Oğuzhan Salih](https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/) |
+| Email | [brenfrank827@gmail.com](mailto:brenfrank827@gmail.com) |
+| Discord | `oxgendev` |
+
+---
+
+<p align="center">
+  <i>Thanks for stopping by — always happy to talk about backend systems, databases, or building products that scale.</i>
 </p>
