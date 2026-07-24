@@ -8,9 +8,9 @@
 
 <div align="center">
 
-# Hi, I'm Oguzhan Salih
+# 👋 Hi, I'm Oguzhan Salih
 
-**Full-Stack Developer** · Backend-focused · TypeScript · Node.js · React · Next.js
+### Full-Stack Developer · TypeScript · Node.js · React · Next.js
 
 Building production systems where performance, data integrity, and long-term architecture actually matter.
 
@@ -21,36 +21,39 @@ Building production systems where performance, data integrity, and long-term arc
 <a href="https://github.com/Oxgendev">
   <img src="https://img.shields.io/github/followers/Oxgendev?label=Followers&style=for-the-badge&color=0969da" alt="GitHub Followers" />
 </a>
+&nbsp;
 <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
+&nbsp;
 <a href="https://oxchi.com">
   <img src="https://img.shields.io/badge/Product-OxChi-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="OxChi" />
 </a>
+&nbsp;
 <img src="https://img.shields.io/badge/Open%20to%20Work-Sweden%20%7C%20EU-2ea44f?style=for-the-badge" alt="Open to relocation" />
 
 </div>
 
 ---
 
-## About
+## 🧑‍💻 About
 
 I'm a Full-Stack Developer with a strong bias toward **backend engineering**, **database architecture**, and **scalable web platforms**.
 
 I ship systems that stay reliable after launch — not demos that only look good in a screenshot. Most of my recent work lives at the intersection of **Next.js dashboards**, **Node.js APIs**, **PostgreSQL / Redis**, and **real-time Discord / FiveM tooling**.
 
 **What I focus on**
-- Clean API & service boundaries
-- Data safety under real traffic and failure modes
-- Latency reduction without unreadable code
-- TypeScript that other engineers can maintain months later
+- ⚡ Clean API & service boundaries
+- 🗄️ Data safety under real traffic and failure modes
+- 🧱 Latency reduction without unreadable code
+- ✨ TypeScript that other engineers can maintain months later
 
 **Looking for**  
 Backend / Full-Stack roles in **Sweden** or the **EU** — teams that care about ownership, quality, and measurable product impact.
 
 ---
 
-## Currently Building
+## 🚀 Currently Building
 
 | Project | What it is | Stack |
 |--------|------------|--------|
@@ -62,11 +65,23 @@ Backend / Full-Stack roles in **Sweden** or the **EU** — teams that care about
 
 ---
 
-## Featured Product
+## 🌟 Featured Product
 
 ### OxChi — Discord Bot Commerce & Ops Platform
 
-**[Live](https://oxchi.com)** · Discord bot sales panel + runtime management
+<p>
+  <a href="https://oxchi.com">
+    <img src="https://img.shields.io/badge/Live-oxchi.com-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="OxChi Live" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
+</p>
+
+Discord bot sales panel + runtime management.
 
 End-to-end platform: customers sign in with Discord, purchase packages, and manage bots from the dashboard; on the operator side, bot-manager brings PM2 processes up and down safely.
 
@@ -78,75 +93,177 @@ End-to-end platform: customers sign in with Discord, purchase packages, and mana
 | Data | PostgreSQL (users, bots, orders) + MongoDB (ticket stats / transcripts meta) |
 | Bot types | Ticket · Guard · Team · FiveM · Legal / Shop bot templates |
 
-`Next.js` · `TypeScript` · `PostgreSQL` · `MongoDB` · `Redis` · `BullMQ` · `Discord.js` · `Docker` · `PM2`
+---
+
+## 🧰 Core Tech Stack
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,js,python,lua,cpp,c" alt="Languages" />
+</p>
+
+- Strong foundation in **algorithms & data structures**
+- Time & space complexity awareness
+- Clean and readable problem-solving style
+
+### 🎨 Frontend
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css,jquery" alt="Frontend" />
+</p>
+
+- React
+- Next.js (App Router, SSR, API Routes)
+- Vue
+- HTML5 / CSS3
+- jQuery
+
+### 🔧 Backend & Realtime
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express" alt="Backend" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Discord.js-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord.js" />
+  <img src="https://img.shields.io/badge/BullMQ-000000?style=for-the-badge&logo=bullmq&logoColor=white" alt="BullMQ" />
+  <img src="https://img.shields.io/badge/WebSocket-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="WebSocket" />
+</p>
+
+- REST API design
+- Authentication & authorization (RBAC, sessions, OAuth)
+- Real-time & event-driven systems
+- Job queues with safe retries
+
+### 🗄️ Databases & Cache
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" />
+</p>
+
+- PostgreSQL (primary)
+- MySQL
+- MongoDB
+- Redis
+- pgAdmin for database management
+
+### 🧩 ORM / Query Layer
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
+  <img src="https://img.shields.io/badge/Knex.js-E34F26?style=for-the-badge" alt="Knex.js" />
+  <img src="https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white" alt="Mongoose" />
+</p>
+
+### ⚙️ DevOps · OS · Tooling
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ubuntu,linux,bash,git,github,docker,githubactions" alt="DevOps" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/PM2-2B037A?style=for-the-badge&logo=pm2&logoColor=white" alt="PM2" />
+</p>
+
+| Area | Tools |
+|------|--------|
+| OS | Ubuntu / Linux |
+| Terminal | Bash |
+| Version Control | Git / GitHub |
+| CI/CD | GitHub Actions |
+| Containers | Docker |
+| Process Manager | PM2 |
 
 ---
 
-## Selected Projects
+## 📦 Selected Projects
 
-### 1. Admin Dashboard
+### 1. 🖥️ Admin Dashboard
 **SSR dashboard for metrics, roles & operations**
 
-Repo: **[Oxgendev/nextjs-dashboard](https://github.com/Oxgendev/nextjs-dashboard)**
+<a href="https://github.com/Oxgendev/nextjs-dashboard">
+  <img src="https://img.shields.io/badge/Repo-nextjs--dashboard-181717?style=for-the-badge&logo=github" alt="Repo" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 
 - Next.js App Router + TypeScript
 - Role-based access patterns
 - Maintainable UI architecture for real admin workflows
 
-`Next.js` · `React` · `TypeScript` · `PostgreSQL`
+**Repo:** [Oxgendev/nextjs-dashboard](https://github.com/Oxgendev/nextjs-dashboard)
 
 ---
 
-### 2. Database Migrations
+### 2. 🗄️ Database Migrations
 **Practical migration patterns for evolving schemas**
 
-Repo: **[Oxgendev/db-migrations-examples](https://github.com/Oxgendev/db-migrations-examples)**
+<a href="https://github.com/Oxgendev/db-migrations-examples">
+  <img src="https://img.shields.io/badge/Repo-db--migrations--examples-181717?style=for-the-badge&logo=github" alt="Repo" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Knex.js-E34F26?style=for-the-badge" alt="Knex.js" />
+<img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" alt="Prisma" />
 
 - Safe schema evolution examples
 - Patterns usable with Knex / Prisma-style workflows
 - Focus on real release safety, not toy scripts
 
-`JavaScript` · `SQL` · `Knex` · `Prisma`
+**Repo:** [Oxgendev/db-migrations-examples](https://github.com/Oxgendev/db-migrations-examples)
 
 ---
 
-### 3. FiveM API
+### 3. 🎮 FiveM API
 **TypeScript API layer for FiveM-related services**
 
-Repo: **[Oxgendev/fivem-api](https://github.com/Oxgendev/fivem-api)**
+<a href="https://github.com/Oxgendev/fivem-api">
+  <img src="https://img.shields.io/badge/Repo-fivem--api-181717?style=for-the-badge&logo=github" alt="Repo" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/REST-02569B?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST" />
 
 - REST / service boundaries for game-server tooling
 - Typed contracts between dashboard, bots, and runtime
 
-`TypeScript` · `Node.js` · `REST`
+**Repo:** [Oxgendev/fivem-api](https://github.com/Oxgendev/fivem-api)
 
 ---
 
-### 4. FiveM Lua
+### 4. ⚡ FiveM Lua
 **Performance-sensitive Lua scripts for real-time game servers**
 
-Repo: **[Oxgendev/fivem-lua](https://github.com/Oxgendev/fivem-lua)**
+<a href="https://github.com/Oxgendev/fivem-lua">
+  <img src="https://img.shields.io/badge/Repo-fivem--lua-181717?style=for-the-badge&logo=github" alt="Repo" />
+</a>
+&nbsp;
+<img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" alt="Lua" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
 
 - Client–server validation
 - State sync under load
 - Tick / latency aware scripting
 
-`Lua` · `SQL` · `Redis`
+**Repo:** [Oxgendev/fivem-lua](https://github.com/Oxgendev/fivem-lua)
 
 ---
 
-## Measurable Impact
+## 📈 Measurable Impact
 
 | Area | Result |
 |------|--------|
-| Server tick optimization | **6.8ms → 3.1ms** |
-| API latency (p95) | **120ms → 70ms** |
-| Database load | **~30–35% reduction** |
-| Releases | **Zero data loss** across shipped updates |
+| ⚡ Server tick optimization | **6.8ms → 3.1ms** |
+| 🚀 API latency (p95) | **120ms → 70ms** |
+| 🗄️ Database load | **~30–35% reduction** |
+| 🔄 Releases | **Zero data loss** across shipped updates |
 
 ---
 
-## GitHub Snapshot
+## 📊 GitHub Snapshot
 
 <div align="center">
 
@@ -165,58 +282,7 @@ Repo: **[Oxgendev/fivem-lua](https://github.com/Oxgendev/fivem-lua)**
 
 ---
 
-## Core Tech Stack
-
-### Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=ts,js,python,lua,cpp,c" alt="Languages" />
-</p>
-
-| Strength | Detail |
-|----------|--------|
-| TypeScript / JavaScript | Primary stack — APIs, dashboards, product work |
-| Algorithms & DS | Complexity-aware, readable problem solving |
-| Lua / C++ / C | Performance-sensitive & systems-adjacent work |
-
-### Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,html,css" alt="Frontend" />
-</p>
-
-React · Next.js (App Router, SSR, API routes) · Vue · HTML5 / CSS3
-
-### Backend & Realtime
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,discordjs" alt="Backend" />
-</p>
-
-- REST API design · AuthN / AuthZ (RBAC, sessions, OAuth)
-- Event-driven systems · WebSockets · BullMQ job queues
-- Discord bot platforms · FiveM integrations
-
-### Databases & Cache
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" alt="Databases" />
-</p>
-
-| Tool | Role |
-|------|------|
-| **PostgreSQL** | Primary relational DB |
-| MySQL | Mixed / legacy environments |
-| MongoDB | Document workloads (bot stats, transcripts meta) |
-| Redis | Cache, pub/sub, queues, heartbeats |
-| Prisma · Knex · Mongoose | ORM / query layers |
-
-### DevOps & Tooling
-<p>
-  <img src="https://skillicons.dev/icons?i=ubuntu,linux,bash,git,github,docker,githubactions" alt="DevOps" />
-</p>
-
-Ubuntu / Linux · Bash · Git / GitHub · Docker · GitHub Actions · PM2
-
----
-
-## Domain Experience
+## 🧱 Domain Experience
 
 ```text
 ┌─────────────────┐     ┌──────────────────┐     ┌─────────────────┐
@@ -234,7 +300,7 @@ Ubuntu / Linux · Bash · Git / GitHub · Docker · GitHub Actions · PM2
 
 ---
 
-## How I Work
+## 🧭 How I Work
 
 | Practice | Why |
 |----------|-----|
@@ -246,7 +312,7 @@ Ubuntu / Linux · Bash · Git / GitHub · Docker · GitHub Actions · PM2
 
 ---
 
-## What I'm Exploring
+## 🔭 What I'm Exploring
 
 - Deeper **PostgreSQL** performance (indexes, EXPLAIN, connection pooling)
 - **Queue / worker** patterns at scale (BullMQ, idempotency, retries)
@@ -255,7 +321,7 @@ Ubuntu / Linux · Bash · Git / GitHub · Docker · GitHub Actions · PM2
 
 ---
 
-## Currently Open To
+## 🎯 Currently Open To
 
 - Backend Engineer / Full-Stack roles
 - Teams shipping real products to real users
@@ -264,15 +330,35 @@ Ubuntu / Linux · Bash · Git / GitHub · Docker · GitHub Actions · PM2
 
 ---
 
-## Contact
+## 📫 Contact
+
+<p align="left">
+  <a href="https://oxchi.com">
+    <img src="https://img.shields.io/badge/Product-oxchi.com-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="OxChi" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Oxgendev">
+    <img src="https://img.shields.io/badge/GitHub-Oxgendev-181717?style=for-the-badge&logo=github" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="mailto:brenfrank827@gmail.com">
+    <img src="https://img.shields.io/badge/Email-brenfrank827%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Discord-oxgendev-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</p>
 
 | | |
 |---|---|
-| Product | [oxchi.com](https://oxchi.com) |
-| GitHub | [github.com/Oxgendev](https://github.com/Oxgendev) |
-| LinkedIn | [Oğuzhan Salih](https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/) |
-| Email | [brenfrank827@gmail.com](mailto:brenfrank827@gmail.com) |
-| Discord | `oxgendev` |
+| 🌐 Product | [oxchi.com](https://oxchi.com) |
+| 🐙 GitHub | [github.com/Oxgendev](https://github.com/Oxgendev) |
+| 💼 LinkedIn | [Oğuzhan Salih](https://www.linkedin.com/in/o%C4%9Fuzhan-salih-622744374/) |
+| 📧 Email | [brenfrank827@gmail.com](mailto:brenfrank827@gmail.com) |
+| 💬 Discord | `oxgendev` |
 
 ---
 
