@@ -267,12 +267,16 @@ End-to-end platform: customers sign in with Discord, purchase packages, and mana
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Oxgendev&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oxgendev&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
+<!--
+  Official github-readme-stats.vercel.app is often rate-limited (503 / Error Fetching Resource).
+  Using a public mirror + long cache. For private stats, deploy your own instance with a PAT.
+-->
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Oxgendev&show_icons=true&theme=radical&hide_border=true&cache_seconds=86400" alt="GitHub Stats" />
+<img height="165" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Oxgendev&layout=compact&theme=radical&hide_border=true&langs_count=8&cache_seconds=86400" alt="Top Languages" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Oxgendev&theme=radical&hide_border=true" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=Oxgendev&theme=radical&hide_border=true" alt="GitHub Streak" />
 
 <br/>
 
