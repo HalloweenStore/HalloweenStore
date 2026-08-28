@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <title>Spor Planım — iPhone Kestirmeleri</title>
+  <style>
+    :root {
+      --bg: #0f1419;
+      --card: #1a2332;
+      --accent: #34d399;
+      --accent2: #60a5fa;
+      --text: #f1f5f9;
+      --muted: #94a3b8;
+      --border: #334155;
+    }
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, "SF Pro Text", "Segoe UI", sans-serif;
+      background: linear-gradient(160deg, #0f1419 0%, #1e293b 100%);
+      color: var(--text);
+      min-height: 100vh;
+      padding: max(20px, env(safe-area-inset-top)) 16px max(32px, env(safe-area-inset-bottom));
+      line-height: 1.5;
+    }
+    .header { text-align: center; margin-bottom: 28px; }
+    .header h1 { font-size: 1.6rem; font-weight: 700; margin-bottom: 6px; }
+    .header p { color: var(--muted); font-size: 0.95rem; }
+    .badge {
+      display: inline-block;
+      background: rgba(52, 211, 153, 0.15);
+      color: var(--accent);
+      padding: 4px 12px;
+      border-radius: 20px;
+      font-size: 0.8rem;
+      margin-top: 10px;
+      font-weight: 600;
+    }
+    .card {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      padding: 18px;
+      margin-bottom: 14px;
+    }
+    .card h2 { font-size: 1.05rem; margin-bottom: 8px; }
+    .card p { color: var(--muted); font-size: 0.9rem; margin-bottom: 14px; }
+    .btn {
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 8px;
+      width: 100%;
+      padding: 14px 16px;
+      border-radius: 12px;
+      font-size: 1rem;
+      font-weight: 600;
+      text-decoration: none;
+      border: none;
+      cursor: pointer;
+      transition: transform 0.15s, opacity 0.15s;
+    }
+    .btn:active { transform: scale(0.98); opacity: 0.9; }
+    .btn-primary { background: var(--accent); color: #052e1f; }
+    .btn-secondary { background: rgba(96, 165, 250, 0.2); color: var(--accent2); border: 1px solid rgba(96, 165, 250, 0.35); }
+    .btn + .btn { margin-top: 8px; }
+    .steps { counter-reset: step; }
+    .step {
+      display: flex;
+      gap: 12px;
+      margin-bottom: 14px;
+      font-size: 0.9rem;
+      color: var(--muted);
+    }
+    .step::before {
+      counter-increment: step;
+      content: counter(step);
+      flex-shrink: 0;
+      width: 26px;
+      height: 26px;
+      background: var(--border);
+      border-radius: 50%;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      font-weight: 700;
+      font-size: 0.8rem;
+      color: var(--text);
+    }
+    .warning {
+      background: rgba(251, 191, 36, 0.1);
+      border: 1px solid rgba(251, 191, 36, 0.3);
+      border-radius: 12px;
+      padding: 14px;
+      font-size: 0.85rem;
+      color: #fcd34d;
+      margin-top: 20px;
+    }
+    .stats {
+      display: grid;
+      grid-template-columns: repeat(3, 1fr);
+      gap: 8px;
+      margin-bottom: 20px;
+    }
+    .stat {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 12px 8px;
+      text-align: center;
+    }
+    .stat strong { display: block; font-size: 1.1rem; color: var(--accent); }
+    .stat span { font-size: 0.75rem; color: var(--muted); }
+  </style>
+</head>
+<body>
+  <div class="header">
+    <h1>🏋️ Spor Planım</h1>
+    <p>178 cm · 80 kg · Nefes dostu program</p>
+    <span class="badge">8 Hafta + Kreatin</span>
+  </div>
+
+  <div class="stats">
+    <div class="stat"><strong>178</strong><span>cm boy</span></div>
+    <div class="stat"><strong>80</strong><span>kg kilo</span></div>
+    <div class="stat"><strong>3-5g</strong><span>kreatin/gün</span></div>
+  </div>
+
+  <div class="card">
+    <h2>⭐ Ana Kestirme — Spor Planım</h2>
+    <p>Bugünkü antrenman, kreatin hatırlatma, kontrol listesi ve haftalık program tek menüde.</p>
+    <a class="btn btn-primary" href="shortcuts/Spor-Planim.shortcut" download="Spor-Planim.shortcut">📲 Spor Planım İndir</a>
+  </div>
+
+  <div class="card">
+    <h2>Bugünkü Antrenman</h2>
+    <p>Günü otomatik algılar ve o günün programını gösterir.</p>
+    <a class="btn btn-secondary" href="shortcuts/Bugunku-Antrenman.shortcut" download="Bugunku-Antrenman.shortcut">📅 Bugünkü Antrenman</a>
+  </div>
+
+  <div class="card">
+    <h2>Diğer Kestirmeler</h2>
+    <a class="btn btn-secondary" href="shortcuts/Gun-Sec-Antrenman.shortcut" download="Gun-Sec-Antrenman.shortcut">📋 Gün Seç — Antrenman</a>
+    <a class="btn btn-secondary" href="shortcuts/Kreatin-Hatirlatici.shortcut" download="Kreatin-Hatirlatici.shortcut">💊 Kreatin Hatırlatıcı</a>
+    <a class="btn btn-secondary" href="SPOR-PLANI.md" download="SPOR-PLANI.md">📄 Tam Plan (PDF yerine metin)</a>
+  </div>
+
+  <div class="card">
+    <h2>Kurulum (iPhone)</h2>
+    <div class="steps">
+      <div class="step">Yukarıdaki mavi/yeşil butona dokunun</div>
+      <div class="step">Dosya indirildikten sonra dokunun</div>
+      <div class="step">"Kestirmeler" uygulamasında "Ekle" deyin</div>
+      <div class="step">Ana ekrana veya kilit ekranına ekleyebilirsiniz</div>
+    </div>
+  </div>
+
+  <div class="warning">
+    ⚠️ Nefes kesilmesi ciddi olabilir. Program düşük yoğunluklu başlangıç içindir.
+    Göğüs ağrısı, baş dönmesi veya bayılma hissinde durun ve doktora başvurun.
+    Kreatin için günde 2,5–3 litre su içmeyi unutmayın.
+  </div>
+</body>
+</html>
